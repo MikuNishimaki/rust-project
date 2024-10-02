@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    {
+        const X: u32 = 7;
+    };
 }
